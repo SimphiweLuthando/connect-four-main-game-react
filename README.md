@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MSPayneII/FEM_Connect_Four](https://github.com/MSPayneII/FEM_Connect_Four)
-- Live Site URL: [https://mpayneii-connect-four.netlify.app/](https://mpayneii-connect-four.netlify.app/)
+- Live Site URL: [connect-four-main-game-react.vercel.app](connect-four-main-game-react.vercel.app)
 
 ## My process
 
